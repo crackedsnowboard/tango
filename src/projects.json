@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "title": "Wip Proj 2",
+      "src": "https://crackedsnowboard.github.io/portfolio-highlights/assets/wip2.png",
+      "alt": "login page",
+      "text": "Tracking goals during a pandemic to help users remain accountable",
+      "link": "https://vast-hollows-48558.herokuapp.com",
+      "github": "https://github.com/crackedsnowboard/project-maven"
+    },
+    {
+      "id": 2,
+      "title": "uDecide Proj 1",
+      "src": "https://crackedsnowboard.github.io/portfolio-highlights/assets/uDecide.png",
+      "alt": "picture of input for address",
+      "text": "Helping voters indentify their current Federal representatives",
+      "link": "https://crackedsnowboard.github.io/uDecide",
+      "github": "https://github.com/crackedsnowboard/uDecide"
+    },
+    {
+      "id": 3,
+      "title": " Weather API",
+      "src": "https://crackedsnowboard.github.io/portfolio-highlights/assets/weather.png",
+      "alt": "screenshot of 5 day weather display",
+      "text": "Consumed open APIs to deliver a 5 day forecast for different locations",
+      "link": "https://crackedsnowboard.github.io/weather-dashboard",
+      "github": "https://github.com/crackedsnowboard/weather-dashboard"
+    },
+    {
+      "id": 4,
+      "title": "Team Generator",
+      "src": "https://camo.githubusercontent.com/fa07162898e3d52c9230cad2737ef2efb4f574a7/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6b464257624b4a6c4e4e7a514256564165332f67697068792e676966",
+      "alt": "website of employees",
+      "text": "Node CLI that generates an HTML webpage for employees.",
+      "link": "https://github.com/crackedsnowboard/team-profile",
+      "github": "https://github.com/crackedsnowboard/team-profile"
+    },
+    {
+      "id": 5,
+      "title": "Employee Tracker",
+      "src": "https://camo.githubusercontent.com/1abf7bb437a41af5f419a9f4a29e8fa1416a758b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f69665377566262356369364e67656b7774482f67697068792e676966",
+      "alt": "command line prompts and user data",
+      "text": "View and interact with information stored in MySQL database",
+      "link": "https://github.com/crackedsnowboard/employee-tracker",
+      "github": "https://github.com/crackedsnowboard/employee-tracker"
+    },
+    {
+      "id": 6,
+      "title": "Note Taker",
+      "src": "https://camo.githubusercontent.com/71a733559cdb423981c4309438c3041682402f0e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f663456677a444c3556666367664977426e452f67697068792e676966",
+      "alt": "Picture of note taker application",
+      "text": "Heroku deployment using Express routes and JSON file for data.",
+      "link": "https://frozen-inlet-33341.herokuapp.com/",
+      "github": "https://github.com/crackedsnowboard/note-taker"
+    }
+  ]
+  
